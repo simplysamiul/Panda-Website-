@@ -1,0 +1,69 @@
+#slider-bar .carousel-bg{
+    background-color: #fceae8;
+   
+}
+#slider-bar .carosel-border-radious{
+    border-radius: 10px;
+}
+.add-bar .image-height{
+    height: 100px;
+}
+.add-bar .radious{
+    border-radius: 10px;
+}
+.add-bar .background{
+    background-color: #ffa500;
+}
+.add-bar .background1{
+    background-color: #da70d6;
+}
+.add-bar .background2{
+   background-color:  #0000ff;
+}
+.shoes-border{
+    border: none;
+    box-shadow: 10px 10px 40px #d6d6d6;
+    border-radius: 10px;
+}
+.panda-footer{
+    background-color:white;
+    border: none;
+}
+.footer h1,h6 {
+    line-height: 1.5em;
+}
+.footer input{
+    width: 100%;
+    margin-bottom: 10px;
+    border: none;
+    border-radius: 50px;
+    padding: 5px;
+}
+.footer{
+    margin-top: 100px;
+    margin-bottom: 100px;
+    border-radius: 10px;
+    background: #fceae8;
+}
+.copyright-border p{
+    margin-top: 5px;
+}
+.copyright-border{
+    border-top: 1px solid lightgrey;
+}
+.btn{
+    padding: 10px 20px;
+    border: none;
+    border-radius: 10px;
+    background-color:pink;
+    background-image: linear-gradient(190deg,#FF589B 0%, #FF136F 100%);
+
+}
+.footer-btn{
+    background: red;
+    background-image: linear-gradient(190deg,#FF589B 0%, #FF136F 100%);
+    padding: 10px;
+    border: none;
+    border-radius: 50px;
+    
+}
